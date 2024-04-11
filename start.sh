@@ -1,0 +1,2 @@
+#!/bin/sh
+./SRBMiner-MULTI --disable-gpu --algorithm randomx --pool hk-zephyr.miningocean.org:5332 --wallet ZEPHsBHQvwnZxkxWYAnddr8pUed4LSDTZ5AZmUkqanDsJXNGypDCDFV3epuU1Mdb32QivUNUL8KwKdBZoQ8EDsY1FDfVvnVRB5V.DienThoai
